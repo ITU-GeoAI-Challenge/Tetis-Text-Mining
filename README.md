@@ -8,6 +8,7 @@ In this repository, you'll find:
 
 + Our presentation to the final event of this challenge: [slides](docs/presentation-tetis.pdf)
 + A jupyter notebook showing how to re-use our model: [notebook](src/usage_example.ipynb)
++ :construction: A report in progress: [report](docs/report-tetis.pdf) :construction:
 
 Our model could be easily downloaded using the HuggingFace library
 ```python
