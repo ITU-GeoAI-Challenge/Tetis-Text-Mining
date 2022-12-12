@@ -1,4 +1,4 @@
-[![tetis](https://www.umr-tetis.fr/images/logo-header-tetis.png)](https://www.umr-tetis.fr/index.php/fr/)
+[![tetis](https://www.umr-tetis.fr/images/logo-header-tetis.png)](https://www.umr-tetis.fr/index.php/)
 
 # TETIS Text Mining contribution to the GeoChallenge: Location Mention Recognition
 
@@ -25,4 +25,3 @@ model = AutoModelForTokenClassification.from_pretrained("rdecoupes/tetis-geochal
 | Roberto Interdonato | [@interdonatos](https://github.com/interdonatos) |
 
 For more information, you can visit our [repository](https://github.com/tetis-geochallenge-lmr-2022)
-
