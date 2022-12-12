@@ -1,4 +1,4 @@
-[![tetis](https://www.umr-tetis.fr/images/logo-header-tetis.png)](https://www.umr-tetis.fr/index.php/fr/)
+[![tetis](https://www.umr-tetis.fr/images/logo-header-tetis.png)](https://www.umr-tetis.fr/index.php/)
 
 # TETIS Text Mining contribution to the GeoChallenge: Location Mention Recognition
 
