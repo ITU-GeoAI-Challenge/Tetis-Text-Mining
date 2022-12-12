@@ -9,7 +9,7 @@ In this repository, you'll find:
 + Our presentation to the final event of this challenge: [slides](docs/presentation-tetis.pdf)
 + A jupyter notebook showing how to re-use our model: [notebook](src/usage_example.ipynb)
 
-Our model could be easily downloaded using the HuggingFace library :huggingface:
+Our model could be easily downloaded using the HuggingFace library
 ```python
 from transformers import AutoTokenizer, AutoModelForTokenClassification
 
