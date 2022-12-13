@@ -27,3 +27,6 @@ model = AutoModelForTokenClassification.from_pretrained("rdecoupes/tetis-geochal
 
 For more information, you can visit our [repository](https://github.com/tetis-geochallenge-lmr-2022)
 
+----------
+![certificate](docs/Certificate_Tetis.pdf)
+
