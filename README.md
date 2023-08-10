@@ -6,7 +6,9 @@ We are pleased to share our results from our participation to the GeoAI challeng
 
 In this repository, you'll find:
 
-+ Our presentation to the final event of this challenge: [slides](docs/presentation-tetis.pdf)
++ Our presentation to the final event of this challenge:
+  + [slides](docs/presentation-tetis.pdf)
+  + [video](https://www.youtube.com/watch?v=AJadU-y2fYg) at 18'09
 + A jupyter notebook showing how to re-use our model: [notebook](src/usage_example.ipynb)
 + :construction: A report in progress: [report](docs/report-tetis.pdf) :construction:
 
